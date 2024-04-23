@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Plotly Tutorial.ipynb" afterDir="false" />
+    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Avance en la Actividad 3">
+      <change afterPath="$PROJECT_DIR$/Actividad 3/Pokémon/actividad3_v2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad 3/Pokémon/pokedex_(Update_04.21).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad 3/actividad3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 3/actividad3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plotly Tut.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Plotly Tut.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,4 +54,8 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Avance en la Actividad 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avance en la Actividad 3" />
+  </component>
 </project>
