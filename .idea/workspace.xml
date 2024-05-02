@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Probando otro DataSet.">
+    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Trabajando con el DataSet the Pokémon.">
+      <change afterPath="$PROJECT_DIR$/analyzing-gpx-files/gpx-data.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analyzing-gpx-files/ride-0-2024-05-01-11-44-30.gpx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad 3/Pokémon/actividad3_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 3/Pokémon/actividad3_v2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2estpMPFxccCXMna3jnCadxgljv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +59,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Avance en la Actividad 3" />
     <MESSAGE value="Probando otro DataSet." />
-    <option name="LAST_COMMIT_MESSAGE" value="Probando otro DataSet." />
+    <MESSAGE value="Trabajando con el DataSet the Pokémon." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabajando con el DataSet the Pokémon." />
   </component>
 </project>
