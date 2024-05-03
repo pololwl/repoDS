@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Trabajando con el DataSet the Pokémon.">
-      <change afterPath="$PROJECT_DIR$/analyzing-gpx-files/gpx-data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analyzing-gpx-files/ride-0-2024-05-01-11-44-30.gpx" afterDir="false" />
+    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Trabajando con GPX Files.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyzing-gpx-files/gpx-data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analyzing-gpx-files/gpx-data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     <MESSAGE value="Avance en la Actividad 3" />
     <MESSAGE value="Probando otro DataSet." />
     <MESSAGE value="Trabajando con el DataSet the Pokémon." />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabajando con el DataSet the Pokémon." />
+    <MESSAGE value="Trabajando con GPX Files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabajando con GPX Files." />
   </component>
 </project>
