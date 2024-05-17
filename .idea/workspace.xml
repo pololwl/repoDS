@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Trabajando con GPX Files." />
+    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Trabajando con GPX Files.">
+      <change afterPath="$PROJECT_DIR$/Actividad 4/endangeredSpeciesColombia.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad 4/password.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad 4/sql_endangeredSpecies.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad 3/Especies Silvestres Amenazadas en Colombia/actividad3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 3/Especies Silvestres Amenazadas en Colombia/actividad3.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pololwl&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pololwl/repoDS.git&quot;,
+    &quot;accountId&quot;: &quot;ae513b56-2b5d-482b-8e59-d9d3ec14a84d&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,6 +59,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Bootcamp-DS-2024-I/repoDS&quot;,
@@ -51,6 +70,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\OneDrive - Universidad Distrital Francisco José de Caldas\Documentos\Bootcamp-DS-2024-I\repoDS" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-559ba0cadc45-1e0160e1c7f0-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.15989.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
