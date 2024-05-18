@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Trabajando con GPX Files.">
-      <change afterPath="$PROJECT_DIR$/Actividad 4/endangeredSpeciesColombia.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad 4/password.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actividad 4/sql_endangeredSpecies.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredAmphibiaSpecies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredAmphibiaSpecies.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad 3/Especies Silvestres Amenazadas en Colombia/actividad3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 3/Especies Silvestres Amenazadas en Colombia/actividad3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividad-3/Especies Silvestres Amenazadas en Colombia/actividad3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-3/Especies Silvestres Amenazadas en Colombia/actividad3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
