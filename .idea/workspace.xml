@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Focusing on Amphibians.">
+    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Working with another API, datasets updated with the new information.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredAmphibiaSpecies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredAmphibiaSpecies.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredAmphibiaSpecies.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredAmphibiaSpecies.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredSpecies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredSpecies.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredSpeciesColombia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredSpeciesColombia.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/actividad-4-5-6-7/endangered_amphibia_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangered_amphibia_map.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +84,7 @@
     <MESSAGE value="Trabajando con el DataSet the Pokémon." />
     <MESSAGE value="Trabajando con GPX Files." />
     <MESSAGE value="Focusing on Amphibians." />
-    <option name="LAST_COMMIT_MESSAGE" value="Focusing on Amphibians." />
+    <MESSAGE value="Working with another API, datasets updated with the new information." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with another API, datasets updated with the new information." />
   </component>
 </project>
