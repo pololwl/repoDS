@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Working with another API, datasets updated with the new information.">
+    <list default="true" id="a90d1e0a-cc88-49b9-b100-08968a89aa93" name="Changes" comment="Added some graphs.">
+      <change afterPath="$PROJECT_DIR$/actividad-8/endangeredAmphibiaSpecies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actividad-8/endangeredAmphibian.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto-final/endangeredAmphibian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto-final/finalProject.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto-final/kmeans-clustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/Area_Protegida_20240619.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/protectedAreas.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/testingAPI.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredAmphibiaSpecies.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredAmphibiaSpecies.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/actividad-4-5-6-7/endangered_amphibia_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangered_amphibia_map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredSpeciesColombia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/actividad-4-5-6-7/endangeredSpeciesColombia.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +58,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;database.data.extractors.current.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Bootcamp-DS-2024-I/repoDS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "database.data.extractors.current.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/USER/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Bootcamp-DS-2024-I/repoDS/proyecto-final",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\OneDrive - Universidad Distrital Francisco José de Caldas\Documentos\Bootcamp-DS-2024-I\repoDS\proyecto-final" />
+      <recent name="C:\Users\USER\OneDrive - Universidad Distrital Francisco José de Caldas\Documentos\Bootcamp-DS-2024-I\repoDS\actividad-8" />
       <recent name="C:\Users\USER\OneDrive - Universidad Distrital Francisco José de Caldas\Documentos\Bootcamp-DS-2024-I\repoDS" />
     </key>
   </component>
@@ -85,6 +95,7 @@
     <MESSAGE value="Trabajando con GPX Files." />
     <MESSAGE value="Focusing on Amphibians." />
     <MESSAGE value="Working with another API, datasets updated with the new information." />
-    <option name="LAST_COMMIT_MESSAGE" value="Working with another API, datasets updated with the new information." />
+    <MESSAGE value="Added some graphs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some graphs." />
   </component>
 </project>
